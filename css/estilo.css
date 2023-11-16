@@ -1,0 +1,426 @@
+@import url("https/googleapis.com/css2?family=cutive+mono&display=swap");
+
+boby {
+  background-color: rgb(198, 198, 198);
+  margin: 0px;
+  padding: 0px;
+}
+
+.principal {
+  width: 360px;
+  height: 740px;
+  margin: auto;
+  background-color: #edc8a3;
+}
+
+.navegacao {
+  width: 360px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.botao {
+  color: black;
+  font-family: "cutive mono", monospace;
+  margin-left: 30px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.botao:hover {
+  color: sienna;
+  font-weight: bold;
+}
+
+.texto001 {
+  width: 70%;
+  height: 200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "cutive mono", monospace;
+  text-align: center;
+  font-size: 30px;
+}
+
+.area001 {
+  width: 90%;
+  height: 460px;
+  background-color: #aa8866;
+  margin: auto;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.area002 {
+  width: 85%;
+  height: 300px;
+  margin: auto;
+  background-color: aliceblue;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  background-image: url(/imagem/filemelementos.jpg);
+  background-size: cover;
+}
+
+.texto002 {
+  width: 70%;
+  height: 200px;
+  margin: auto;
+  margin-top: 20px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.principal2 {
+  width: 360px;
+  height: 2000px;
+  margin: auto;
+  background-color: #d6aa7e;
+}
+
+.caixa {
+  width: 360px;
+  height: 740px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.p2a {
+  width: 300px;
+  height: 350px;
+  margin-top: 30px;
+  background-color: beige;
+  border-radius: 20px;
+  box-shadow: 26px 1px 95px -18px #cba884;
+  -webkit-box-shadow: 26px 1px 95px -18px#cba884;
+  -moz-box-shadow: 26px 1px 95px -18px #cba884;
+  background-image: url(/imagem/herois.jpg);
+  background-size: cover;
+}
+
+.p2b {
+  width: 300px;
+  height: 350px;
+  margin-top: 30px;
+  background-color: beige;
+  border-radius: 20px;
+  box-shadow: 26px 1px 95px -18px #cba884;
+  -webkit-box-shadow: 26px 1px 95px -18px#cba884;
+  -moz-box-shadow: 26px 1px 95px -18px #cba884;
+  background-image: url(/imagem/poder.jpg);
+  background-size: cover;
+}
+.p2c {
+  width: 300px;
+  height: 350px;
+  margin-top: 30px;
+  background-color: beige;
+  border-radius: 20px;
+  box-shadow: 26px 1px 95px -18px #cba884;
+  -webkit-box-shadow: 26px 1px 95px -18px#cba884;
+  -moz-box-shadow: 26px 1px 95px -18px #cba884;
+  background-image: url(/imagem/cra.jng.png);
+  background-size: cover;
+}
+
+.texto {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  margin-top: 400px;
+  margin-left: 50px;
+  font-family: "cutive mono", monospace;
+  text-align: center;
+  font-size: 20px;
+  flex-wrap: wrap;
+}
+
+.circulos {
+  width: 300px;
+  height: 110px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 650px;
+  margin-left: 20px;
+}
+
+.circulos01 {
+  width: 100px;
+  height: 100px;
+  background-color: beige;
+  margin-left: 15px;
+  border-radius: 50px;
+  background-image: url(/imagem/n.png);
+  background-size: 100%;
+}
+
+.circulos02 {
+  width: 100px;
+  height: 100px;
+  background-color: beige;
+  margin-left: 5px;
+  border-radius: 200px;
+  background-image: url(/imagem/h.jpg);
+  background-size: 109%;
+  background-size: cover;
+}
+
+.circulos03 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(23, 23, 22);
+  margin-left: 10px;
+  border-radius: 50px;
+  background-image: url(/imagem/you.png);
+  background-size: 100%;
+  background-size: contain;
+}
+
+.caixa2 {
+  width: 360px;
+  height: 999px;
+  margin: auto;
+  margin-bottom: 20px;
+  background-color: #edc8a3;
+  display: flex;
+}
+
+.principal3 {
+  width: 400px;
+  height: 350px;
+  margin-left: 6px;
+  margin-top: 10px;
+  background-color: #aa8866;
+  border-radius: 20px;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.quadrado {
+  width: 340px;
+  height: 300px;
+  margin-top: 20px;
+  margin-left: 1px;
+  background-color: aliceblue;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  background-image: url(/imagem/menina.jng.webp);
+  background-size: cover;
+}
+
+.texto003 {
+  width: 100px;
+  height: 500px;
+  display: flex;
+  margin-top: 400px;
+  margin-left: -300px;
+  font-family: "cutive mono", monospace;
+  font-size: 15px;
+}
+
+.ex01 {
+  width: 400px;
+  height: 350px;
+  margin: auto;
+  background-color: aliceblue;
+  margin-left: -30;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  background-image: url(/imagem/casal.png);
+  background-size: cover;
+}
+
+/* x-large(aplicacao para desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+  .principal {
+    width: 1000px;
+    height: 700px;
+  }
+
+  .navegacao {
+    width: 100%;
+  }
+
+  .texto001 {
+    height: 250px;
+  }
+
+  .area001 {
+    width: 900px;
+    height: 300px;
+    flex-direction: row;
+  }
+
+  .area002 {
+    width: 40%;
+    height: 260px;
+  }
+
+  .texto002 {
+    width: 40%;
+    height: 260px;
+  }
+
+  .principal2 {
+    width: 999px;
+    height: 740px;
+    margin: auto;
+    background-color: #aa8866;
+  }
+
+  .caixa {
+    width: 990px;
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .p2a {
+    width: 300px;
+    height: 350px;
+    margin-top: 30px;
+    background-color: beige;
+    border-radius: 20px;
+    box-shadow: 26px 1px 95px -18px #cba884;
+    -webkit-box-shadow: 26px 1px 95px -18px#cba884;
+    -moz-box-shadow: 26px 1px 95px -18px #cba884;
+    background-image: url(/imagem/herois.jpg);
+  }
+
+  .p2b {
+    width: 300px;
+    height: 350px;
+    margin-top: 30px;
+    background-color: beige;
+    border-radius: 20px;
+    box-shadow: 26px 1px 95px -18px #cba884;
+    -webkit-box-shadow: 26px 1px 95px -18px#cba884;
+    -moz-box-shadow: 26px 1px 95px -18px #cba884;
+    background-image: url(/imagem/poder.jpg);
+    background-size: cover;
+  }
+
+  .p2c {
+    width: 300px;
+    height: 350px;
+    margin-top: 30px;
+    background-color: beige;
+    border-radius: 20px;
+    box-shadow: 26px 1px 95px -18px #cba884;
+    -webkit-box-shadow: 26px 1px 95px -18px#cba884;
+    -moz-box-shadow: 26px 1px 95px -18px #cba884;
+    background-image: url(/imagem/cra.jng.png);
+    background-size: contain;
+  }
+
+  .texto {
+    width: 600px;
+    height: 10px;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 400px;
+    font-family: "cutive mono", monospace;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .circulos {
+    width: 300px;
+    height: 110px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+    margin-left: 20px;
+  }
+
+  .circulos01 {
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    margin-left: 15px;
+    border-radius: 50px;
+    background-image: url(/imagem/n.png);
+    background-size: 100%;
+  }
+
+  .circulos02 {
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    margin-left: 10px;
+    border-radius: 200px;
+    background-image: url(/imagem/h.jpg);
+    background-size: 109%;
+  }
+
+  .circulos03 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(23, 23, 22);
+    margin-left: 10px;
+    border-radius: 50px;
+    background-image: url(/imagem/you.png);
+    background-size: 100%;
+  }
+
+  .caixa2 {
+    width: 999px;
+    height: 740px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: #edc8a3;
+    display: flex;
+  }
+
+  .principal3 {
+    width: 950px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 10px;
+    background-color: #aa8866;
+    border-radius: 20px;
+    flex-direction: column;
+  }
+
+  .quadrado {
+    width: 400px;
+    height: 280px;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-image: url(/imagem/menina.jng.webp);
+    background-size: cover;
+  }
+
+  .texto003 {
+    width: 500px;
+    height: 20px;
+    margin: 20px;
+    display: flex;
+    margin-left: -990px;
+    margin-top: 400px;
+    color: rgb(20, 20, 20);
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .ex01 {
+    width: 400px;
+    height: 350px;
+    margin: auto;
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-image: url(/imagem/casal.png);
+    background-size: cover;
+  }
+}
